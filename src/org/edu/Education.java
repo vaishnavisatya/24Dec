@@ -16,6 +16,8 @@ public static void main(String[] args) {
 	obj.ug();
 	obj.physiyo();
 	obj.btech();
+	System.out.println("green");
+	System.out.println("yellow");
 }
 }    
     
